@@ -14,7 +14,7 @@ A twitter app where you can log in to twitter with your metamask wallet account 
 ![Screenshot 2023-05-09 at 1 37 11 AM](https://user-images.githubusercontent.com/113882904/236929758-71972f13-6c8e-41b2-acf3-a1320af1fe7a.jpg)
 
 
-•This image shows when you have minted NFT as your profile picture
+•This image shows when you have minted NFT as your profile picture with hexagonal shape
 
 ## Minted NFT Profile Image
 
